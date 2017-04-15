@@ -1,3 +1,6 @@
+#not top 10 
+#only 2010-2017
+
 import webbrowser
 
 print ("Answer the following questions to find the Top World news on any specified Date (Use Numbers - EX: 12/14/2002 MONTH/DAY/FULL YEAR)")
